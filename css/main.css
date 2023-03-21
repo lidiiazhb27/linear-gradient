@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+ .text {
+    color: white;
+    font-size: 100px;
+    font-family: sans-serif;
+} 
+.black{
+    width: 1349.026px;
+    height: 10px;   
+    background-color: black;
+}
+.block{
+    float: left;
+    height: 614.5px;
+    width: 192.718px;
+    line-height: 634.5px;
+}
+.gradient{
+    background: linear-gradient(to top, rgba(149,41,30,255), rgba(234,33,57,255));
+    text-align: center;
+}
+.gradient_2{
+    background:linear-gradient(to top, rgba(190,107,132,255), rgba(53,92,125,255));
+    text-align: center;
+}
+.gradient_3{
+    background: linear-gradient(to top, rgba(252,131,54,255), rgba(50,231,189,255));
+    text-align: center;
+}
+.gradient_4{
+    background:linear-gradient(to top, rgba(44,118,68,255), rgba(89,63,55,255));
+    text-align: center;
+}
+.gradient_5{
+    background:linear-gradient(to top, rgba(254,235,187,255), rgba(237,67,100,255));
+    text-align: center;
+}
+.gradient_6{
+    background: linear-gradient(to top, rgba(150,40,31,255), rgba(234,33,57,255));
+    text-align: center;
+}
+.gradient_7{
+    background:linear-gradient(to top, rgba(175,156,144,255), rgba(98,59,23,255));
+    text-align: center;
+}
+.black2{
+    margin: 614.5px 0 0 0;
+    width: 1349.026px;
+    height: 10px;
+    background-color: black;
+}
+.text{
+    color: white;
+    font-size: 100px;
+    text-shadow: black 1px 0 10px;
+}
